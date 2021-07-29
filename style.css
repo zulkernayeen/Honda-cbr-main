@@ -1,0 +1,57 @@
+
+  
+  /* ----------------------------------bannner css style -------------------------------------- */
+  .banner{
+    background-color: #264653;
+  }
+  .bottam  {
+     background-color: #E76F51;
+     width: 168px;
+     height: 44px;
+  }
+
+
+  /*----------------------------------- Fetured Bikes 2021 css------------------------------- */
+  .card-1{
+    filter: grayscale(100%);
+  }
+  /* .card-1 img:hover{
+    -webkit-filter: grayscale(0);
+    filter: none;
+
+  } */
+  /* -------------------------------------latest News css ------------------------*/
+  .push{
+    color: #FFFFFF;
+    width: 160px;
+    height: 57px;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: #E76F51;
+  }
+  .push-1{
+    background-color: none;
+    color: #E76F51;
+    width: 160px;
+    height: 57px;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid  #E76F51;
+    
+
+  }
+  
+
+
+  /*--------------------------------- Happy Clients says -------------------------------*/
+  .icon{
+    color: #E77C40;
+  }
+
+
+  /*------------------------------- Frequently Asked Questions--------------------------- */
+  .color{
+    color: #E76F51;
+  }
